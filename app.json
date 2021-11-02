@@ -1,7 +1,7 @@
 {
-  "name": "tokio",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/itsajaygaur/tokio-wabot",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "name": "drkbot",
+  "description": "Ligero WhatsApp Bot",
+  "repository": "https://github.com/botpage/drkbot",
+  "logo": "https://avatars.githubusercontent.com/u/82006592?s=150&v=4",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
